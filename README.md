@@ -1,10 +1,10 @@
-# Midjourney-prompts
+# Prompts for Mid-Journey 🚀
 For prompts to use in midjourney
 
 <hr/>
-1. --ar : accept ratio
+@command: --ar : accept ratio
 
-ex : --ar x:y 
+@ex : --ar x:y 
 
 @info
 x ->> numeric
@@ -12,7 +12,7 @@ y ->> numeric
 
 <hr/>
 
-2. realistic, hyper realistic, photo realistic
+@command: realistic, hyper realistic, photo realistic
 
 @info
 Different types of photo realism. For more [Info](https://github.com/PriyathamVarma/midjourney-prompts/blob/main/concepts/realism.md)
@@ -20,7 +20,7 @@ Different types of photo realism. For more [Info](https://github.com/PriyathamVa
 <hr/>
 
 
-3. monochromatic, complemntary
+@command: monochromatic, complemntary
 
 @info
 Different color schemes. For more [Info](https://github.com/PriyathamVarma/midjourney-prompts/blob/main/concepts/color_schemes.md)
@@ -29,7 +29,7 @@ Different color schemes. For more [Info](https://github.com/PriyathamVarma/midjo
 <hr/>
 
 
-4. optical resolution
+@command: optical resolution
 
 @info
 Different types of resolutions. For more [Info](https://github.com/PriyathamVarma/midjourney-prompts/blob/main/concepts/resolutions.md)
@@ -37,4 +37,21 @@ Different types of resolutions. For more [Info](https://github.com/PriyathamVarm
 
 <hr/>
 
-5. 
+@command: rule of thirds, symmetry
+
+@info
+Different types of composition. For more [Info](https://github.com/PriyathamVarma/midjourney-prompts/blob/main/concepts/composition.md)
+
+<hr/> 
+
+@command: 
+
+@info: 
+
+<hr/> 
+
+@command: 
+
+@info: 
+
+<hr/> 
