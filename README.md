@@ -44,14 +44,16 @@ Different types of composition. For more [Info](https://github.com/PriyathamVarm
 
 <hr/> 
 
-@command: 
+@command: high contrast
 
 @info: 
+Different types of contrasts, For more [Info](https://github.com/PriyathamVarma/midjourney-prompts/tree/main/concepts)
 
 <hr/> 
 
-@command: 
+@command: Focus
 
 @info: 
+Different types of sharpness, For more [Info](https://github.com/PriyathamVarma/midjourney-prompts/blob/main/concepts/sharpness.md)
 
 <hr/> 
