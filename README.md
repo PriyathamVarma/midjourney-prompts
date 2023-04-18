@@ -1,0 +1,2 @@
+# midjourney-prompts
+For prompts
